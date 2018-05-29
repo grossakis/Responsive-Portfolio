@@ -45,7 +45,7 @@ section{
     border: 1px solid #cacaca;
     position: relative;
     top: 30px;
-    width: 400px;
+    width: 60%;
     margin-left: 5%;
     background-color: #ffffff;
     z-index: 1;
@@ -154,6 +154,7 @@ a:hover{
         display: block;
         margin-left: auto;
         margin-right: auto;
+        width: 80%;
     }
 }
 @media screen and (max-width: 640px) {
