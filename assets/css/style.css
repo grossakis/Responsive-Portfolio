@@ -134,10 +134,13 @@ a:hover{
     position: relative;
     display: inline-block;
     text-align: center;
-    width: 49%;
+    width: 45%;
     height: auto;
     margin-bottom: 20px;
-
+}
+.spacer{
+    display: inline-block;
+    width: 8%;
 }
 
 .boxlabel{
@@ -191,5 +194,8 @@ a:hover{
         height: auto;
         float: none;
         margin:0;
+    }
+    .spacer{
+        display: none;
     }
 }
